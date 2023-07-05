@@ -9,3 +9,4 @@
    b. add product image
    c. render product
    d. style product
+6. Routing to Home Screen and Detail Page
