@@ -10,3 +10,6 @@
    c. render product
    d. style product
 6. Routing to Home Screen and Detail Page
+7. Create Node.js server
+   1. run npm init in root folder
+   2.
