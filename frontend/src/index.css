@@ -11,6 +11,10 @@ body {
   min-height: 100vh;
 }
 
+.btn-primary {
+  background-color: #f0c040;
+  color: black;
+}
 main {
   flex: 1;
 }
@@ -31,4 +35,8 @@ main {
 
 .product-info {
   padding: 1rem;
+}
+
+.rating span {
+  color: gold;
 }
