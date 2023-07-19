@@ -46,3 +46,9 @@
 14. Create Rating Component
 15. Create Product Component
 16. Add rating component in product component
+
+17. Create the Product Detail Page with Bootstrap
+
+18. Fetching Product from backend.
+19. Product Image , Product Information & Product Status if available button to add to cart else out of stock.
+20. Changing title of the page as per the product title using helmet
