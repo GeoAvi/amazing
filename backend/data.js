@@ -45,7 +45,7 @@ const data = {
       category: 'Anniversary',
       image: '/Image/CH2FM06.jpg',
       price: 1200,
-      countInStock: 8,
+      countInStock: 0,
       brand: 'Geolin',
       rating: 4.5,
       numReviews: 12,
