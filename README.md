@@ -52,3 +52,9 @@
 18. Fetching Product from backend.
 19. Product Image , Product Information & Product Status if available button to add to cart else out of stock.
 20. Changing title of the page as per the product title using helmet
+
+21. Create Loading and message component
+22. create loading component
+23. create spinner component
+24. create message component
+25. define util.js to define getError function
