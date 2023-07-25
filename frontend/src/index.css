@@ -45,6 +45,10 @@ main {
   max-width: 100%;
 }
 
+.img-thumbnail {
+  height: 80px;
+}
+
 .loadingbox {
   width: 100%;
   display: flex;
