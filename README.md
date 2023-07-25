@@ -65,6 +65,11 @@ c. Changing title of the page as per the product title using helmet
     c. Create store provider
     d. Implement add to cart button handler
 
-15.Improve cart functionality
-a. check existing item in cart
-b. check cart items in backend
+15. Improve cart functionality
+    a. check existing item in cart
+    b. check cart items in backend
+
+16. Create cart Screen
+    a. create 2 columns
+    b. display item list.
+    c. create action column.
