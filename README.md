@@ -73,3 +73,8 @@ c. Changing title of the page as per the product title using helmet
     a. create 2 columns
     b. display item list.
     c. create action column.
+
+17. Complete Cart Screen
+    a. click handler for inc/dec item
+    b. click handler for remove item
+    c. click handler for checkout
