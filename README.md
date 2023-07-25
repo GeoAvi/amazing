@@ -78,3 +78,8 @@ c. Changing title of the page as per the product title using helmet
     a. click handler for inc/dec item
     b. click handler for remove item
     c. click handler for checkout
+
+18. Create Signin Screen
+    a. create sign in form
+    b. add email and password
+    c. add signin button

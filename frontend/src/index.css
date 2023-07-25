@@ -55,3 +55,7 @@ main {
   align-items: center;
   justify-content: center;
 }
+
+.small-container {
+  max-width: 600px;
+}
