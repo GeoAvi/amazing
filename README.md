@@ -89,3 +89,9 @@ c. Changing title of the page as per the product title using helmet
     b. install local mongodb database
     c. npm install mongoose
     d. connect to mongodb database
+
+20. Seed Sample Products
+    a. create Product model
+    b. create seed route
+    c. use route in server.js
+    d. seed sample product

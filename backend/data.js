@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      // _id: '1',
       name: 'Exsiquite White Pair',
       slug: 'exsiquite-white-pair',
       category: 'Wedding',
@@ -15,7 +15,7 @@ const data = {
     },
 
     {
-      _id: '2',
+      // _id: '2',
       name: 'Exsiquite Black Pair',
       slug: 'exsiquite-black-pair',
       category: 'Wedding',
@@ -29,7 +29,7 @@ const data = {
     },
 
     {
-      _id: '3',
+      // _id: '3',
       name: 'Elegant Black Pair',
       slug: 'elegant-black-pair',
       category: 'Wedding',
@@ -43,7 +43,7 @@ const data = {
     },
 
     {
-      _id: '4',
+      // _id: '4',
       name: 'Charming Gold Pair',
       slug: 'charming-gold-pair',
       category: 'Anniversary',
