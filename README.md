@@ -95,3 +95,7 @@ c. Changing title of the page as per the product title using helmet
     b. create seed route
     c. use route in server.js
     d. seed sample product
+
+21. Seed Sample Users
+    a. create user model
+    b. seed sample users
