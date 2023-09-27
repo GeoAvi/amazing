@@ -99,3 +99,8 @@ c. Changing title of the page as per the product title using helmet
 21. Seed Sample Users
     a. create user model
     b. seed sample users
+
+22. Create Signin Backend API
+    a. create signin api
+    b. npm install jsonwebtoken
+    c. define generateToken
